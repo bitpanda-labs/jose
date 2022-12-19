@@ -2,7 +2,7 @@
 
 PHP JOSE (Javascript Object Signing and Encryption) Implementation
 
-[![PHP Composer](https://github.com/Hailong/jose-php/actions/workflows/php.yml/badge.svg?branch=master)](https://github.com/Hailong/jose-php/actions/workflows/php.yml)
+[![PHP Composer](https://github.com/bitpanda-labs/jose-php/actions/workflows/php.yml/badge.svg?branch=master)](https://github.com/bitpanda-labs/jose-php/actions/workflows/php.yml)
 
 ## Requirements
 
